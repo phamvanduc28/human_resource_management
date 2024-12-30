@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Trang-1" id="jA_AXnLiRbzz0pm_46H4">
-    <mxGraphModel dx="1784" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CjVjsAyroETB7Jro9Hgo-27" value="&lt;span&gt; &lt;/span&gt;&lt;span&gt;Decision &lt;/span&gt;&lt;span&gt;Variables&amp;nbsp;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="600" width="242.5" height="200" as="geometry" />
+          <mxGeometry x="10" y="630" width="242.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CjVjsAyroETB7Jro9Hgo-28" value="&lt;span&gt;x_ijt: &lt;/span&gt;&lt;span&gt;Employee &lt;/span&gt;&lt;span&gt;i &lt;/span&gt;&lt;span&gt;assigned &lt;/span&gt;&lt;span&gt;to &lt;/span&gt;&lt;span&gt;Task &lt;/span&gt;&lt;span&gt;j &lt;/span&gt;&lt;span&gt;at&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CjVjsAyroETB7Jro9Hgo-27" vertex="1">
           <mxGeometry x="-7.5" y="38" width="230" height="30" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CjVjsAyroETB7Jro9Hgo-30" value="&lt;span&gt;Objective &lt;/span&gt;&lt;span&gt;Function&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="890" width="246.25" height="200" as="geometry" />
+          <mxGeometry x="30" y="910" width="246.25" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CjVjsAyroETB7Jro9Hgo-31" value="&lt;span&gt;Minimize: &lt;/span&gt;&lt;span&gt;Sum(salary_i &lt;/span&gt;&lt;span&gt;+ &lt;/span&gt;&lt;span&gt;overtimeCost_i)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CjVjsAyroETB7Jro9Hgo-30" vertex="1">
           <mxGeometry x="-3.75" y="60" width="250" height="30" as="geometry" />
